@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-02-09T02:17:14.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gXhQDmzeNkRJ7NIpN10Q" version="20.8.16" type="github"><diagram name="第 1 页" id="ElzLk9xlhmKX2nh8JI6h">3VZbb5swFP4153FTzC3m0RCySbtoW6VN3cvkBjdQEYyMaZL++h2DgSCyttNSbZoUKcefz8XnO5cE3Hh3eKN4lX2QqSjAWaQHcFfgOMRzPfwyyLFD6MLtgK3KU6s0Alf5g7DgwqJNnop6oqilLHReTcGNLEux0ROMKyX3U7VbWUyjVnwrZsDVhhdz9Fue6sxm4SxH/K3It1kfmQRhd7PjvbLNpM54KvcnkJuAGyspdSftDrEoDHk9L53d+he3w8OUKPVzDD7fXa+u1bvvN+vyx8ev7EH7X25e2WLc86KxCdvH6mPPgEiREHuUSmdyK0teJCMaKdmUqTBhFngadd5LWSFIELwTWh9tdXmjJUKZ3hX2totpAv0yNwvVslEb8UhCfY9wtRX6ET1nqAC2rpA7odUR7ZQouM7vp+/gtoe2g95IMwqW6d9gnTyD9aLAFjfs7rNci6uKt2nvccqm3PG66vr+Nj+YGlgy74XS4vA4nfP0rUFoW9bOrG+P+3EA+qbOTnq/xy5OlzOnK1kCi4BGkITACEThjMCxKcnTJF6AM2/KGaFz0sg51oKXYs2bscYgcQHfRQny5kFEgXm9wKwQouADZYZVJDlCktdGwJagASRriGKgcauEGlgDox1AGDbNrAS48Soj4jYtZKOfLkMlVI7JCzUafRqhqJJ1rnNZOnbT1N0+cRcnd+bqNXERSXmdDfW/QIFJMK1weG4qzhSYkJeqsH9mLnyIFhCtIKFYZqyUERChLiRYpTUw/1+bFNf725MS/Pmk+BASCOkwIO0Vfmg7O6hPmCkAzhK2jbFnrcdZbYwOa4XWI8oTj3i7GjxGxt4Mod9H80+00WNsUjCOMEYymJmViSEZNUK4bIU2IZx1s1YT9Bm3EjEHEyNpHzs4CiDyTXeZ56+AtT1GcVe41hFd9EJ0QtrS2LJ1q8yAzn/y/u91cf5X9EL7Ao/jH8n27uTvuJv8BA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-09T02:54:31.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7uylp5e-hcAyTs9SKapu" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="ElzLk9xlhmKX2nh8JI6h">
+    <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QjYDYrKZbFn_NVAzt5Rb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QjYDYrKZbFn_NVAzt5Rb-1" target="QjYDYrKZbFn_NVAzt5Rb-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYDYrKZbFn_NVAzt5Rb-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="90" y="50" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QjYDYrKZbFn_NVAzt5Rb-2" target="QjYDYrKZbFn_NVAzt5Rb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYDYrKZbFn_NVAzt5Rb-2" value="立项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYDYrKZbFn_NVAzt5Rb-4" value="业务经理A立项，部门主管C审核。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.13;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="90" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QjYDYrKZbFn_NVAzt5Rb-5" target="8p6swbS6E5nezO1NIQDR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYDYrKZbFn_NVAzt5Rb-5" value="尽职调查" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjYDYrKZbFn_NVAzt5Rb-6" value="由A提交调查报告，先由业务经理A再由业务经理B补充，最后由业务领导C确认后流转至下个环节。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.13;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="250" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p6swbS6E5nezO1NIQDR-2" target="8p6swbS6E5nezO1NIQDR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-2" value="风控审查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-4" value="由风控员D提交审查报告，再由风控领导E复核后流转至下个环节。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p6swbS6E5nezO1NIQDR-5" target="8p6swbS6E5nezO1NIQDR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-5" value="创建评委会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-7" value="由评委会秘书F创建评委会，选择评委（至少5人）" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8p6swbS6E5nezO1NIQDR-8" target="8p6swbS6E5nezO1NIQDR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-8" value="评委评议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-10" value="秘书汇总评议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8p6swbS6E5nezO1NIQDR-11" value="由评审会秘书F整理评议内容，再由风控领导E复核后流转至下个环节。" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;size=30;position=0.13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="200" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
